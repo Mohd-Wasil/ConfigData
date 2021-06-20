@@ -1,0 +1,4 @@
+lucky-word : Hello world this is my key from config server
+jdbc-url : http://localhost:8080/oracle/access
+jdbc-key : 1jsds83s4dsb
+jdbc-username : target_dev
